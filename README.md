@@ -5,10 +5,6 @@
 
 Explorer World is a simple HTML-based travel-themed webpage designed to inspire exploration and provide information about travel destinations, essentials, and packages.
 The webpage demonstrates the use of basic HTML tags like headings, paragraphs, lists, images, tables, hyperlinks, and semantic formatting.
-
-
----
-
 ✨ Features
 
 1. Headings & Paragraphs
@@ -16,9 +12,6 @@ The webpage demonstrates the use of basic HTML tags like headings, paragraphs, l
 Inspiring travel introduction.
 
 Use of semantic tags like <em>, <strong>, <u>, and <strike> for styling.
-
-
-
 2. Images
 
 Displays travel-related pictures (explore the world.jpg, Italy destination.jpg, TRAVEL ACTIVITIES.jpg).
@@ -31,8 +24,6 @@ External link: Redirect to Lonely Planet in a new tab.
 
 Navigation link: Return to homepage (destination.html).
 
-
-
 4. Lists
 
 Ordered List: Top 5 Travel Destinations.
@@ -41,18 +32,13 @@ Unordered List: Travel essentials to pack.
 
 Description List: Travel glossary with definitions.
 
-
-
 5. Table
 
 Displays travel packages with destination, price, and duration.
 
-
-
 6. Contact Section
 
 Provides email and phone contact details.
----
 
 🛠 Technologies Used
 
